@@ -1,2 +1,21 @@
-# Deepfake-Misinformation-Analysis
-Deepfake Misinformation Analysis is an AI-based project that detects and analyzes misleading or manipulated content generated through deepfake technologies. Using machine learning and data analysis techniques, it helps identify misinformation patterns and supports trustworthy digital content verification.
+# Deepfake Misinformation Analysis
+
+An AI-based project for detecting and analyzing misinformation generated through deepfake technologies.
+
+## Features
+- Deepfake content analysis
+- Misinformation detection
+- Data preprocessing and visualization
+- Machine Learning based classification
+- Performance evaluation and insights
+
+## Technologies Used
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+
+## Objective
+To identify and analyze manipulated digital content and misinformation using AI and machine learning techniques.
